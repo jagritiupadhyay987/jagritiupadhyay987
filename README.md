@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:dbaaa7,50:c98f8b,100:b77b78&text=Jagriti%20Upadhyay&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:312E81&text=Jagriti%20Upadhyay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Building+Production+Ready+AI+Systems;Full+Stack+Developer;Computer+Vision+%7C+LLMs+%7C+NLP;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
