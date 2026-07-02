@@ -19,11 +19,9 @@
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<a href="https://www.linkedin.com/in/jagriti-upadhyay-9a7119340?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -31,17 +29,15 @@
 <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="[https://github.com/jagritiupadhyay987">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=jagritiupadhyay987&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=6D28D9)
 
 </div>
 
@@ -213,6 +209,7 @@ AdaptiveMind is a cloud-native AI learning platform that personalizes educationa
 - Demonstrates end-to-end AI product engineering.
 
 </details>
+<a href="https://adaptivemind-app-851162638036.us-central1.run.app/">
 
 ---
 
@@ -251,37 +248,7 @@ A computer vision system built for real-time crowd density estimation and behavi
 <details>
 <summary>
 
-## 📡 NFC Automated Attendance System
 
-</summary>
-
-### Overview
-
-A complete IoT-based attendance solution combining NFC hardware, Arduino, MongoDB, and a Streamlit dashboard for live attendance tracking.
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Python, Arduino, NFC, MongoDB, Streamlit |
-| **Scale** | Real-time Attendance Monitoring |
-| **Performance** | Instant NFC Authentication |
-| **Security** | Hardware-based identification |
-| **Impact** | Automated attendance management |
-| **Repository** | *Private* |
-
-### Highlights
-
-- Passive NFC authentication.
-- Arduino hardware integration.
-- MongoDB cloud synchronization.
-- Live Streamlit analytics dashboard.
-- End-to-end IoT workflow implementation.
-
-</details>
-
----
-
-<details>
-<summary>
 
 ## ♻ Ecofy — Smart Waste Segregation Monitoring
 
@@ -391,61 +358,29 @@ Worked as a Web Development Intern where I contributed to building responsive we
 
 ## IBM
 
-![](https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-1261FE?style=for-the-badge&logo=IBM&logoColor=white)
-
+[![](https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-1261FE?style=for-the-badge&logo=IBM&logoColor=white)
+](https://verify.netcredential.com/roy8AfFx3p)
 ---
+https://verify.netcredential.com/roy89qlISH
 
-## AWS
 
-![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Continuous%20Learning-512DA8?style=for-the-badge)
-
----
 
 # Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/jagriti987">
 <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<a href="https://www.geeksforgeeks.org/profile/jagritiupak53f">
 <img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -514,9 +449,9 @@ Worked as a Web Development Intern where I contributed to building responsive we
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagritiupadhyay987&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagritiupadhyay987&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -607,7 +542,7 @@ Open To:
 
 &nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="">
 <img src="https://img.shields.io/badge/LinkedIn-Jagriti%20Upadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
